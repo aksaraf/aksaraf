@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akshay Saraf
-- 📜 Mechanical Engineer
-- 👀 I’m interested in data analytics
+- 👀 I’m working as a Data Analyst
 - 🌱 I’m currently learning Statistics, Python Programming, SQL, and Tableau. 
 - 💞️ I’m looking to collaborate on data analytics projects
+- 📜 Mechanical Engineer
 - 📫 You can reach me at sarafaakshay@gmail.com
 
 <!---
